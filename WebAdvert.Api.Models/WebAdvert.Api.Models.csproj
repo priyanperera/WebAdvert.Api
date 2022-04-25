@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Priyan Perera</Authors>
+    <Company>Home</Company>
+    <Product>WebAdvert.Api.Models</Product>
+    <PackageId>WebAdvert</PackageId>
+  </PropertyGroup>
+
+</Project>
